@@ -1,0 +1,35 @@
+{
+  "id_tmdb": "32405",
+  "imagen": "https://cdn.myanimelist.net/images/anime/4/87341.jpg",
+  "titulo": "Marshmallow★Imouto★Succubus★",
+  "año": "2016",
+  "etiquetas": "Hentai",
+  "categorías": "Hentai",
+  "type": "animes",
+  "created_at": "2016-03-18",
+  "updated_at": "2025-08-21T16:09:41.057Z",
+  "synopsis": "Based on the erotic game by Dwarfsoft.",
+  "temporadas": [
+    {
+      "temporada": "Temporada 1",
+      "capitulos": [
+        {
+          "episode_id": "1",
+          "nombre": "1. Episodio 1",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-08-21T16:09:41.057Z",
+          "id": ""
+        },
+        {
+          "episode_id": "2",
+          "nombre": "2. Episodio 2",
+          "portada": "",
+          "enlaces": [],
+          "updated_at": "2025-08-21T16:09:41.057Z",
+          "id": ""
+        }
+      ]
+    }
+  ]
+}
