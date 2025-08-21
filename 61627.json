@@ -1,0 +1,41 @@
+{
+  "id_MyList": "61627",
+  "imagen": "https://cdn.myanimelist.net/r/200x268/images/anime/1844/149627.webp?s=276541a3495659abcb953bbc39981c0d",
+  "titulo": "Tonari no Kanojo",
+  "año": "2024",
+  "etiquetas": "Acción, Aventura, Drama",
+  "categorías": "Acción, Aventura, Drama",
+  "type": "series",
+  "created_at": "2024-04-10",
+  "updated_at": "2025-08-21T02:54:15.834Z",
+  "synopsis": " ",
+  "temporadas": [
+    {
+      "temporada": "Temporada 1",
+      "capitulos": [
+        {
+          "episode_id": "1",
+          "nombre": "1. Episodio 1",
+          "portada": "https://hentaijk.com/assets/images/animes/video/image_thumb/jkvideo_e4834d8d963abde5558a8b63c6147ab3.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://streamwish.to/e/blhj80lscqc8",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://movearnpre.com/v/jm01ohndkc1n",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-08-21T02:54:15.834Z",
+          "id": "2362884"
+        }
+ 
+      ]
+    }
+  ]
+}
