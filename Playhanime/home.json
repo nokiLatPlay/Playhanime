@@ -1,54 +1,24 @@
 {
   "data": [
     {
-      "id_tmdb": "37224",
-      "imagen": "https://cdn.myanimelist.net/images/anime/1714/92907.jpg",
-      "titulo": "JK to Inkou Kyoushi 4 feat. Ero Giin-sensei",
-      "año": "",
+      "id_MyList": "53702",
+      "titulo": "Imouto wa Gal Kawaii",
+      "imagen": "https://cdn.myanimelist.net/images/anime/1445/131523.jpg",
+      "año": "2023",
       "categorías": "Hentai",
       "type": "OVA",
-      "created_at": "2025-08-24T06:46:35.808Z",
-      "updated_at": "2025-08-24T06:46:35.808Z"
+      "created_at": "2023-02-03T00:00:00+00:00",
+      "updated_at": "2025-08-24T07:08:36.980Z"
     },
     {
-      "id_tmdb": "41261",
-      "titulo": "Ane wa Yanmama Junyuu-chuu",
-      "imagen": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
-      "año": "",
+      "id_MyList": "35936",
+      "titulo": "Imouto Bitch ni Shiboraretai",
+      "imagen": "https://cdn.myanimelist.net/images/anime/1473/103737.jpg",
+      "año": "2017",
       "categorías": "Hentai",
       "type": "OVA",
-      "created_at": "2020-06-05T00:00:00+00:00",
-      "updated_at": "2025-08-24T06:56:26.864Z"
-    },
-    {
-      "id_tmdb": "14127",
-      "titulo": "Papa Love: Papa to Icha Ero Shitai Musume-tachi to Hitotsu Yane no Shita de",
-      "imagen": "https://cdn.myanimelist.net/images/anime/1859/119693.jpg",
-      "año": "",
-      "categorías": "Hentai",
-      "type": "OVA",
-      "created_at": "2012-07-27T00:00:00+00:00",
-      "updated_at": "2025-08-24T06:57:15.423Z"
-    },
-    {
-      "id_tmdb": "16189",
-      "titulo": "Miboujin Nikki: Akogare no Ano Hito to Hitotsu Yane no Shita",
-      "imagen": "https://cdn.myanimelist.net/images/anime/1732/115889.jpg",
-      "año": "",
-      "categorías": "Hentai",
-      "type": "OVA",
-      "created_at": "2013-01-25T00:00:00+00:00",
-      "updated_at": "2025-08-24T06:57:23.016Z"
-    },
-    {
-      "id_tmdb": "38732",
-      "titulo": "Chikan Shita Joshi*sei to Sonogo, Musabori Au Youna Doero Junai",
-      "imagen": "https://cdn.myanimelist.net/images/anime/1255/104909.jpg",
-      "año": "",
-      "categorías": "Hentai",
-      "type": "ONA",
-      "created_at": "2018-10-19T00:00:00+00:00",
-      "updated_at": "2025-08-24T06:57:31.382Z"
+      "created_at": "2017-10-06T00:00:00+00:00",
+      "updated_at": "2025-08-24T07:08:57.393Z"
     }
   ]
 }
