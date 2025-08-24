@@ -92,13 +92,13 @@
     },
     {
       "id_tmdb": "41261",
-      "imagen": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
       "titulo": "Ane wa Yanmama Junyuu-chuu",
+      "imagen": "https://cdn.myanimelist.net/images/anime/1810/105977.jpg",
       "año": "",
       "categorías": "Hentai",
       "type": "OVA",
-      "created_at": "2025-08-23T14:08:42.550Z",
-      "updated_at": "2025-08-23T14:08:42.550Z"
+      "created_at": "2025-08-23T14:08:42.552Z",
+      "updated_at": "2025-08-23T14:08:42.552Z"
     },
     {
       "id_tmdb": "33322",
@@ -249,6 +249,16 @@
       "type": "ONA",
       "created_at": "2025-08-23T18:53:33.262Z",
       "updated_at": "2025-08-23T18:53:33.262Z"
+    },
+    {
+      "id_MyList": "32405",
+      "imagen": "https://cdn.myanimelist.net/images/anime/4/87341.jpg",
+      "titulo": "Marshmallow★Imouto★Succubus★",
+      "año": "",
+      "categorías": "Hentai",
+      "type": "OVA",
+      "created_at": "2025-08-23T20:03:40.346Z",
+      "updated_at": "2025-08-23T20:03:40.346Z"
     }
   ]
 }
