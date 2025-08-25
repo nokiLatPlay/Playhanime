@@ -1,14 +1,12 @@
 {
-  "id_tmdb": "32405",
+  "id_MyList": "32405",
   "imagen": "https://cdn.myanimelist.net/images/anime/4/87341.jpg",
   "titulo": "Marshmallow★Imouto★Succubus★",
   "año": "2016",
-  "etiquetas": "Hentai",
   "categorías": "Hentai",
-  "type": "animes",
-  "created_at": "2016-03-18",
-  "updated_at": "2025-08-21T16:09:41.057Z",
-  "synopsis": "Based on the erotic game by Dwarfsoft.",
+  "type": "OVA",
+  "created_at": "2016-03-18T00:00:00+00:00",
+  "updated_at": "2025-08-25T22:01:41.846Z",
   "temporadas": [
     {
       "temporada": "Temporada 1",
@@ -16,18 +14,56 @@
         {
           "episode_id": "1",
           "nombre": "1. Episodio 1",
-          "portada": "",
-          "enlaces": [],
-          "updated_at": "2025-08-21T16:09:41.057Z",
-          "id": ""
+          "portada": "https://himg.nl/images/es/marshmallow-imouto-succubus-1/s_poster.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://www.yourupload.com/embed/t02ADidi66fp",
+              "type": "Embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-6zc2dlp41b3r.html",
+              "type": "Embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://movearnpre.com/v/6tk69dl3r9s3",
+              "type": "Embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-08-25T22:02:27.103Z",
+          "id": "1756159347103"
         },
         {
           "episode_id": "2",
           "nombre": "2. Episodio 2",
-          "portada": "",
-          "enlaces": [],
-          "updated_at": "2025-08-21T16:09:41.057Z",
-          "id": ""
+          "portada": "https://himg.nl/images/es/marshmallow-imouto-succubus-2/s_poster.jpg",
+          "enlaces": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://www.yourupload.com/embed/1JiXx1teiS37",
+              "type": "Embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://www.mp4upload.com/embed-16lmtdckdp9f.html",
+              "type": "Embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 3",
+              "url": "https://movearnpre.com/v/t9i38rqh21pq",
+              "type": "Embed",
+              "language": "Sub"
+            }
+          ],
+          "updated_at": "2025-08-25T22:02:32.169Z",
+          "id": "1756159352169"
         }
       ]
     }
