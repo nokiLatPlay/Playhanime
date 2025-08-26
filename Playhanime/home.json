@@ -59,6 +59,16 @@
       "type": "OVA",
       "created_at": "2020-08-28T00:00:00+00:00",
       "updated_at": "2025-08-26T05:04:48.354Z"
+    },
+    {
+      "id_MyList": "52104",
+      "imagen": "https://cdn.myanimelist.net/images/anime/1099/124542.jpg",
+      "titulo": "Boku wa Chiisana Succubus no Shimobe",
+      "año": "2022",
+      "categorías": "Supernatural, Hentai",
+      "type": "OVA",
+      "created_at": "2022-08-05T00:00:00+00:00",
+      "updated_at": "2025-08-26T05:07:58.824Z"
     }
   ]
 }
