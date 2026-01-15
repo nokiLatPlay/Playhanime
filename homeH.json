@@ -1,17 +1,61 @@
 {
   "data": [
     
-{
-      "id_MyList": "61627",
-      "imagen": "https://cdn.myanimelist.net/r/200x268/images/anime/1844/149627.webp?s=276541a3495659abcb953bbc39981c0d",
-      "titulo": "Tonari no Kanojo",
-      "año": "2025",
+"0": {
+      "id_list": "37088",
+      "imagen": "https://cdn.myanimelist.net/images/anime/1065/103771l.jpg",
+      "titulo": "Enkou JK Bitch Gal: Ojisan to Namapako Seikatsu",
       "etiquetas": "Hentai",
-      "categorías": "Hentai",
-      "type": "series",
-      "created_at": "2024-04-10",
-      "updated_at": "2025-08-21T02:54:15.834Z"
+      "type": "OVA",
+      "created_at": "2018-02-09",
+      "updated_at": "2026-01-15T14:55:25.449Z"
+    },
+    "1": {
+      "id_list": "35936",
+      "imagen": "https://cdn.myanimelist.net/images/anime/1473/103737l.jpg",
+      "titulo": "Imouto Bitch ni Shiboraretai",
+      "etiquetas": "Hentai",
+      "type": "OVA",
+      "created_at": "2017-10-06",
+      "updated_at": "2026-01-15T14:55:26.200Z"
+    },
+    "2": {
+      "id_list": "48654",
+      "imagen": "https://cdn.myanimelist.net/images/anime/1162/114079l.jpg",
+      "titulo": "Bitch na Inane-sama",
+      "etiquetas": "Hentai",
+      "type": "OVA",
+      "created_at": "2021-04-23",
+      "updated_at": "2026-01-15T14:55:26.967Z"
+    },
+    "3": {
+      "id_list": "33322",
+      "imagen": "https://cdn.myanimelist.net/images/anime/1646/112534l.jpg",
+      "titulo": "JK Bitch ni Shiboraretai",
+      "etiquetas": "Hentai",
+      "type": "OVA",
+      "created_at": "2016-08-19",
+      "updated_at": "2026-01-15T14:55:27.725Z"
+    },
+    "4": {
+      "id_list": "11969",
+      "imagen": "https://cdn.myanimelist.net/images/anime/1763/104250l.jpg",
+      "titulo": "Love Bitch: Yasashii Onna",
+      "etiquetas": "Hentai",
+      "type": "OVA",
+      "created_at": "2011-12-16",
+      "updated_at": "2026-01-15T14:55:28.547Z"
+    },
+    "5": {
+      "id_list": "38865",
+      "imagen": "https://cdn.myanimelist.net/images/anime/1153/103728l.jpg",
+      "titulo": "Bitch Gakuen ga Seijun na Hazu ga Nai!!? The Animation",
+      "etiquetas": "Hentai",
+      "type": "OVA",
+      "created_at": "2019-03-29",
+      "updated_at": "2026-01-15T14:55:30.144Z"
     }
+  
     
     
     
