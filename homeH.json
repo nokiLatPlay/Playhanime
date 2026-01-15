@@ -9,6 +9,20 @@
       "type": "OVA",
       "created_at": "2018-02-09",
       "updated_at": "2026-01-15T14:55:25.449Z"
+      "links": [
+            {
+              "nombre": "Enlace 1",
+              "url": "https://www.yourupload.com/embed/5yc1Sg52MWv5",
+              "type": "embed",
+              "language": "Sub"
+            },
+            {
+              "nombre": "Enlace 2",
+              "url": "https://cdn.hvidserv.com/play/425f631497a4566531ddb645e6521d90",
+              "type": "embed",
+              "language": "Sub"
+            }
+          ]
     },
     "1": {
       "id_list": "35936",
